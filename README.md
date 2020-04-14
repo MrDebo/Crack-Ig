@@ -13,4 +13,3 @@
 </ul>
 <br />
 <br />
-<img src="https://github.com/MrDebo/Crack-Ig/blob/master/Crack-Ig.png" />
