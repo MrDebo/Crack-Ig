@@ -1,6 +1,6 @@
 <ul>
 <li><code>$ apt update && apt upgrade</code></li>
-<li><code>$ pkg install python</code></li>
+<li><code>$ pkg install python2</code></li>
 <li><code>$ pkg install Apache2</code></li>
 <li><code>$ pkg install curl</code></li>
 <li><code>$ pkg install bash</code></li>
